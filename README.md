@@ -1,0 +1,2 @@
+# Stamina.github.io
+Stamina
